@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.8">
   <diagram name="第 1 页" id="EwOZOFTYF4MEnb2ysiwp">
-    <mxGraphModel dx="978" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,23 +13,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-1" value="家庭部门" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-2" value="政府部门" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-6" value="资本品部门" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-8" value="最终品部门" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-2" target="UZIE4KyFXo0_8vwqkWRl-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379" y="380" as="sourcePoint" />
-            <mxPoint x="429" y="330" as="targetPoint" />
+            <mxPoint x="559" y="630" as="sourcePoint" />
+            <mxPoint x="609" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="340" />
+              <mxPoint x="640" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,10 +40,10 @@
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-1" target="UZIE4KyFXo0_8vwqkWRl-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379" y="380" as="sourcePoint" />
-            <mxPoint x="429" y="330" as="targetPoint" />
+            <mxPoint x="559" y="630" as="sourcePoint" />
+            <mxPoint x="609" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="260" />
+              <mxPoint x="640" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,25 +52,12 @@
             <mxPoint x="-1" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UZIE4KyFXo0_8vwqkWRl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-11" target="UZIE4KyFXo0_8vwqkWRl-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="693" y="60" />
-              <mxPoint x="80" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UZIE4KyFXo0_8vwqkWRl-23" value="中间产品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-22">
-          <mxGeometry x="0.0514" y="1" relative="1" as="geometry">
-            <mxPoint x="23" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-8" target="UZIE4KyFXo0_8vwqkWRl-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="370" as="sourcePoint" />
-            <mxPoint x="440" y="320" as="targetPoint" />
+            <mxPoint x="570" y="620" as="sourcePoint" />
+            <mxPoint x="620" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="210" />
+              <mxPoint x="390" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="530" y="100" width="326.5" height="370" as="geometry" />
+          <mxGeometry x="710" y="350" width="326.5" height="370" as="geometry" />
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-11" value="中间品部门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;verticalAlign=bottom;" vertex="1" parent="UZIE4KyFXo0_8vwqkWRl-31">
           <mxGeometry width="326.5" height="370" as="geometry" />
@@ -124,10 +111,10 @@
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-11" target="UZIE4KyFXo0_8vwqkWRl-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="510" />
+              <mxPoint x="570" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -136,10 +123,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UZIE4KyFXo0_8vwqkWRl-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-8" target="UZIE4KyFXo0_8vwqkWRl-6">
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-2" target="UZIE4KyFXo0_8vwqkWRl-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-35" value="投资品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-34">
@@ -149,10 +136,10 @@
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-11" target="UZIE4KyFXo0_8vwqkWRl-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="120" />
+              <mxPoint x="520" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -163,10 +150,10 @@
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-6" target="UZIE4KyFXo0_8vwqkWRl-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="280" />
+              <mxPoint x="390" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,10 +164,10 @@
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-1" target="UZIE4KyFXo0_8vwqkWRl-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="230" />
+              <mxPoint x="720" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -191,16 +178,89 @@
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-1" target="UZIE4KyFXo0_8vwqkWRl-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="280" />
+              <mxPoint x="720" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UZIE4KyFXo0_8vwqkWRl-45" value="数字化资本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-44">
           <mxGeometry x="0.7145" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-47" value="零售商部门&lt;div&gt;（价格黏性）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-1" target="UZIE4KyFXo0_8vwqkWRl-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="370" as="sourcePoint" />
+            <mxPoint x="600" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-55" value="储蓄" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-54">
+          <mxGeometry x="0.0607" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-50" value="金融部门" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-48" target="UZIE4KyFXo0_8vwqkWRl-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-52" value="再贷款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-51">
+          <mxGeometry x="0.312" y="3" relative="1" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-48" value="中央银行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-49" value="商业银行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-50" target="UZIE4KyFXo0_8vwqkWRl-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="370" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-57" value="贷款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-56">
+          <mxGeometry x="-0.5279" y="-2" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-11" target="UZIE4KyFXo0_8vwqkWRl-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="410" as="sourcePoint" />
+            <mxPoint x="770" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-59" value="分类、重新定价" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-58">
+          <mxGeometry x="0.6173" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZIE4KyFXo0_8vwqkWRl-47" target="UZIE4KyFXo0_8vwqkWRl-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="410" as="sourcePoint" />
+            <mxPoint x="770" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZIE4KyFXo0_8vwqkWRl-61" value="根据全要素生产率加总" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UZIE4KyFXo0_8vwqkWRl-60">
+          <mxGeometry x="0.0114" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
